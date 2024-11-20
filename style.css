@@ -583,14 +583,11 @@ img{
     transform: translateX(.25rem);
 }
 
-/*--- MAIS DE 1 PROJETO ---*/
-/*
 .portfolioContainer{
     grid-template-columns: repeat(2, max-content);
     gap: 3rem;
     justify-content: center;
 }
-*/
 
 /*--- CONTATO ---*/
 .contatoContainer{
