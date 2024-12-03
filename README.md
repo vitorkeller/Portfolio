@@ -20,7 +20,7 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,git)](https://github.com/vitorkeller)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,git)]
 
 ## 💻 Projeto
 
